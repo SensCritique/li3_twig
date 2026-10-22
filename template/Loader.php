@@ -16,7 +16,7 @@ use lithium\util\Text;
  *
  * @see lithium\template\view\Renderer
  */
-class Loader extends \lithium\core\Object {
+class Loader extends \lithium\core\ObjectDeprecated {
 
 	/**
 	 * Returns the template paths.
